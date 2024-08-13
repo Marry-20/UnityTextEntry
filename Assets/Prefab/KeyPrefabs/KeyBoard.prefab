@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5730215586727621247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5730215586727621246}
+  - component: {fileID: 5730215586727621233}
+  m_Layer: 0
+  m_Name: KeyBoard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &5730215586727621246
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5730215586727621247}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 450}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &5730215586727621233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5730215586727621247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70faa2c2ab8356f4d8b7833dd577bc3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wrdWedge:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  newWedge:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  wedgePrefab: {fileID: 1853980613873854717, guid: a085ab4c390da82429b1cdd94e2a9c88, type: 3}
+  DelPrefab: {fileID: 1853980613873854717, guid: f8296c2027994ea49b3d0d586022126d, type: 3}
+  WrdSentPrefab: {fileID: 1853980613873854717, guid: 67129493533adb54bbc2255471e79f89, type: 3}
+  SentPrefab: {fileID: 3552338549287408298, guid: 927bd0f8ad154c644a6a0c59e554fa16, type: 3}
+  NxtSenPrefab: {fileID: 4380275173880280320, guid: d36e66b3bf474eb4786391ce79c8bb57, type: 3}
+  NxtWrdPrefab: {fileID: 4380275173880280320, guid: 1e57489480d3eda4684c6565702496a3, type: 3}
+  PredPanel: {fileID: 3552338549287408298, guid: 10ca9d935a52320418bcd83d0aa4c39b, type: 3}
+  NxtSntWedge:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  NxtWrdrWedge:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  NxtWrdLetter:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  NxtSntLetter:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  TextBar: {fileID: 7387051018483957867, guid: 0870b2092d39bbd44824e5087edc7849, type: 3}
+  Letters:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  LettersPrefab: {fileID: 4994228394806855464, guid: bd1935154a7ba0c4aa8b8d78ce407330, type: 3}
+  ringRedius: 1
+  ringWidth: 12
+  x:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  y:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  alphabet:
+  - .?123
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - k
+  - z
+  - l
+  - m
+  - n
+  - o
+  - p
+  - q
+  - r
+  - j
+  - s
+  - t
+  - u
+  - v
+  - x
+  - w
+  - y
+  - Spc
+  - WDel
+  - Del
+  flg: 
+  AllWords: 
+  EachWords:
+  - 
+  - 
+  - 
+  SquarePlayIsFinished: 0
